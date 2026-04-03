@@ -1,4 +1,4 @@
-This is a repository used to prove that the extended Donagi construction is compatible with edge contractions. This code is to check that in all the cases of the proof of the corresponding pre-preprint (not yet available).
+This is a repository used to prove that the extended Donagi construction is compatible with edge contractions. This code is to check that in all the cases of the proof of the corresponding pre-preprint (not yet available, joint work with Felix Röhrle).
 
 proofOfContinuity.mlx is the main sequence that contains the case checking.
 
